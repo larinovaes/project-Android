@@ -1,4 +1,4 @@
-package com.example.primeiraaulaalura
+package com.example.primeiraaulaalura.ui.activity
 
 import android.os.Bundle
 import android.view.View
@@ -6,6 +6,7 @@ import android.widget.ArrayAdapter
 import android.widget.ListView
 
 import androidx.appcompat.app.AppCompatActivity
+import com.example.primeiraaulaalura.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
